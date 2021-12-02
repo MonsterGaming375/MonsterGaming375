@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MonsterGaming375
+- 👀 I’m interested in mainly coding with python/pygame
+- 🌱 I’m currently learning different programing languages.
